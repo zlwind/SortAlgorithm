@@ -1,0 +1,4 @@
+K:\SortAlgorithm\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe
+K:\SortAlgorithm\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.pdb
+K:\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\x86\Debug\SortAlgorithm.exe
+K:\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\x86\Debug\SortAlgorithm.pdb
